@@ -1,14 +1,25 @@
-# 👋 Hi there, I’m Guzel!
+## 👋 Hi there, I’m Guzel!
 
-- 👩‍💻 I’m a former Business Systems Analyst with over 10 years of experience — now transitioning into web development.
-- 🌱 I’m currently learning Flutter and improving my full-stack development skills.
-- 🛠 I work with HTML, CSS, JavaScript, React, Node.js, and love bringing ideas to life with clean code and thoughtful UI/UX.
-- 🧠 I’m passionate about building tools that make everyday life easier — like planners and idea organizers.
-- 💡 My current project: U-Plan — a productivity app that helps users manage daily tasks, save ideas, and track progress.
-- 🎯 I’m open to collaboration on small React projects, productivity tools, or anything creative that involves JavaScript.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guzel-simonova) or drop me a message here on GitHub.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I moved to the US a few years ago and started learning development while raising two kids — every day is a code-and-play adventure!
+👩‍💻 **Experienced IT Systems Analyst** turning ideas into code — now building skills in Full-Stack and Flutter Development.
+🌱 Passionate about learning new technologies and building intuitive, user-focused products.
+
+### 🛠 Tech Stack
+HTML · CSS · JavaScript · React · Node.js
+
+Love bringing ideas to life with clean code and thoughtful UI/UX.
+
+### 💡Most recent project
+**U-Plan** — a productivity app that helps users manage daily tasks, save ideas, and track progress.
+
+### 🎯 What I’m Looking For
+Open to collaborating on small **React projects**, **productivity tools**, or any **creative JavaScript ideas**.
+
+### 📫 Let’s Connect
+Find me on [LinkedIn](https://www.linkedin.com/in/guzel-simonova) or send a message here on GitHub.
+
+😄 **Pronouns:** she/her
+
+⚡ **Fun fact:** I moved to the US a few years ago and started learning development while raising two kids — every day is a code-and-play adventure!
 
 
 <!---
