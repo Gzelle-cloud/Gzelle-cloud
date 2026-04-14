@@ -1,28 +1,52 @@
-## 👋 Hi there, I’m Guzel!
+# Hi, I'm Guzel 👋
 
-👩‍💻 **Experienced IT Systems Analyst** turning ideas into code — now building skills in Full-Stack and Flutter Development.
-🌱 Passionate about learning new technologies and building intuitive, user-focused products.
+Senior Systems Analyst with 10+ years of enterprise experience in systems analysis, integration design, and requirements engineering.
 
-### 🛠 Tech Stack
-HTML · CSS · JavaScript · React · Node.js
+Currently focused on AI-powered product development using LLMs (Anthropic API), applying systems thinking to requirements, architecture, and implementation of data-driven and automation-heavy applications.
 
-Love bringing ideas to life with clean code and thoughtful UI/UX.
+---
 
-### 💡Most recent project
-**U-Plan** — a productivity app that helps users manage daily tasks, save ideas, and track progress.
+## Projects
 
-### 🎯 What I’m Looking For
-Open to collaborating on small **React projects**, **productivity tools**, or any **creative JavaScript ideas**.
+### 🎤 AI Interview Coach
+> AI-powered interview preparation platform for non-native English speakers
 
-### 📫 Let’s Connect
-Find me on [LinkedIn](https://www.linkedin.com/in/guzel-simonova) or send a message here on GitHub.
+Real-time voice transcription, LLM feedback, structured practice modes, and progress tracking.
 
-😄 **Pronouns:** she/her
+**Stack:** Next.js · React · TypeScript · Anthropic API · Tailwind CSS  
+**Focus:** AI interaction design · prompt-driven UX · system reliability
 
-⚡ **Fun fact:** I moved to the US a few years ago and started learning development while raising two kids — every day is a code-and-play adventure!
+🔒 Private repo — launching soon
 
+---
 
-<!---
-Gzelle-cloud/Gzelle-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📄 Rental Bill Automation
+> AI tool that extracts structured data from Russian utility bills (PDF → Excel automation)
+
+Transforms a 30-minute manual workflow into a 15-second automated process using LLM-based extraction.
+
+**Stack:** Python · Flask · Claude API  
+**Focus:** document intelligence · data extraction · workflow automation
+
+🔗 [Live demo](https://rental-bill-automation-production.up.railway.app/) · [GitHub](https://github.com/Gzelle-cloud/rental-bill-automation)
+
+---
+
+## Core Capabilities
+
+- Enterprise Systems & Requirements Engineering
+- System & Integration Design (APIs, data flows, system interactions)
+- AI-Augmented Workflow Design (LLM-based automation, structured outputs, validation logic) 
+- Business Process Automation
+- Data Validation & SQL-based System Analysis
+---
+
+## Background
+
+10+ years in enterprise systems delivery in regulated environments, including document management systems, workflow automation, RBAC design, and participation in large-scale enterprise migration programs (5M+ documents, 32,000+ users) from a requirements and target system design perspective.
+
+Currently applying systems thinking to AI-driven products, focusing on how LLMs reshape business workflows, decision-making, and system interactions.
+
+---
+
+📫 guzelsimonovar@gmail.com · [LinkedIn](https://www.linkedin.com/in/guzel-simonova)
